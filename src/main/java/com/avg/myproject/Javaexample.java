@@ -1,4 +1,6 @@
-public class JavaExample {
+package com.avg.myproject;
+
+public class Javaexample {
 
     public static void main(String[] args) {
         
